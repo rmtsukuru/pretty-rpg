@@ -2,7 +2,7 @@
   "name": "pretty-rpg",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/js/main.js",
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack --mode production",
