@@ -1,6 +1,6 @@
 const ASPECT_RATIO = 4 / 3;
 const BASE_HEIGHT = 480;
-const FIELD_SPEED = 0.6;
+const FIELD_SPEED = 0.45;
 
 export {
   ASPECT_RATIO,
